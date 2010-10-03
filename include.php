@@ -5,7 +5,7 @@
 // untuk mengambil data kaskuser !         //
 // sengaja nih buat berantakan soal nya    //
 // buru buru trus belom di bungkus         //
-// class =="                               //
+// class ==                                //
 // kalo ada yang mau dikembangkan          //
 // silahkan aja...                         //
 // tapi jangan lupa credits to nya :D      //
